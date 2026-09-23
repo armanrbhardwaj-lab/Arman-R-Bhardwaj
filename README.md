@@ -1,22 +1,15 @@
-# RXERO Portfolio — Production Package
+# RXERO — GitHub Pages Package
 
-Live site:
-https://armanrbhardwaj-lab.github.io/Arman-R-Bhardwaj/
+Clean GitHub-ready portfolio package for RXERO.
 
-Configured:
-- Real email: armanrbhardwaj@gmail.com
-- WhatsApp: +91 8894940470
-- LinkedIn profile
-- SEO title/meta/canonical
-- Organization structured data
-- robots.txt
-- sitemap.xml
-- favicon
-- PNG social preview
-- Formspree-ready enquiry form
+## Upload
+1. Extract this ZIP.
+2. Upload the extracted contents to the repository root.
+3. Keep the `assets/` folder intact.
+4. GitHub Pages should use `main` branch and `/(root)`.
 
-FINAL FORM STEP:
-Replace `YOUR_FORM_ID` in `index.html` with the unique Formspree form ID from your Formspree dashboard. Formspree's HTML integration requires the form's unique endpoint. After replacing it, commit the file to GitHub.
+## Dashboard visuals
+The Selected Work visuals are self-contained SVG files in `assets/` and do not depend on external image URLs. They use generic/sample labels only; individual product/item names are intentionally omitted.
 
-
-FIX NOTE: Case-study visuals are embedded in index.html so GitHub Pages does not depend on separate image paths for these cards. Sweets & Namkeen is included as a dedicated industry case study.
+## Contact form
+The form is prepared for Formspree but requires your real Formspree endpoint ID before submissions are live.
