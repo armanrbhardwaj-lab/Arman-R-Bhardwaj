@@ -17,3 +17,6 @@ Configured:
 
 FINAL FORM STEP:
 Replace `YOUR_FORM_ID` in `index.html` with the unique Formspree form ID from your Formspree dashboard. Formspree's HTML integration requires the form's unique endpoint. After replacing it, commit the file to GitHub.
+
+
+FIX NOTE: Case-study visuals are embedded in index.html so GitHub Pages does not depend on separate image paths for these cards. Sweets & Namkeen is included as a dedicated industry case study.
