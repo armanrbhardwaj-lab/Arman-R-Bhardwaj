@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://armanrbhardwaj-lab.github.io/Arman-R-Bhardwaj/sitemap.xml
