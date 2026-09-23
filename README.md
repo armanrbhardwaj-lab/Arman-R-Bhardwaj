@@ -1,31 +1,19 @@
-# Arman R Bhardwaj — Portfolio Website
+# RXERO Portfolio — Production Package
 
-A responsive static portfolio website for:
+Live site:
+https://armanrbhardwaj-lab.github.io/Arman-R-Bhardwaj/
 
-**Arman R Bhardwaj**  
-Data Analytics / Report Analytics / MIS / Consultant
+Configured:
+- Real email: armanrbhardwaj@gmail.com
+- WhatsApp: +91 8894940470
+- LinkedIn profile
+- SEO title/meta/canonical
+- Organization structured data
+- robots.txt
+- sitemap.xml
+- favicon
+- PNG social preview
+- Formspree-ready enquiry form
 
-## Files
-
-- `index.html` — complete website
-- `css/style.css` — responsive styling
-- `js/script.js` — navigation, filters, animations, scroll progress and contact-form demo
-- `assets/` — place your resume, profile photo and project images here
-
-## Quick start
-
-1. Extract the ZIP.
-2. Open `index.html` in Chrome/Edge.
-3. Replace the placeholder email and LinkedIn URL in `index.html`.
-4. Add your resume/project screenshots to `assets/`.
-5. For a live site, upload the folder to GitHub Pages or Netlify.
-
-## Important customization
-
-The contact form is currently front-end only. Connect it to Formspree, Netlify Forms, EmailJS, a backend API, or your own email endpoint before publishing.
-
-Replace:
-- `your.email@example.com`
-- `#` on the LinkedIn link
-
-with your real contact details.
+FINAL FORM STEP:
+Replace `YOUR_FORM_ID` in `index.html` with the unique Formspree form ID from your Formspree dashboard. Formspree's HTML integration requires the form's unique endpoint. After replacing it, commit the file to GitHub.
